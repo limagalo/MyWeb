@@ -1,0 +1,18 @@
+2024-01-11 20:52:18.077 [info] 
+
+
+
+
+2024-01-11 20:52:18.095 [info] Extension host agent started.
+2024-01-11 20:52:18.236 [info] [127.0.0.1][f1fbec11][ManagementConnection] New connection established.
+2024-01-11 20:52:18.714 [info] [127.0.0.1][f52f2746][ExtensionHostConnection] New connection established.
+2024-01-11 20:52:18.814 [info] [127.0.0.1][f52f2746][ExtensionHostConnection] <2486> Launched Extension Host Process.
+2024-01-11 20:53:42.650 [info] [127.0.0.1][f1fbec11][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-11 20:53:42.741 [info] [127.0.0.1][f52f2746][ExtensionHostConnection] <2486> Extension Host Process exited with code: 0, signal: null.
+2024-01-11 20:53:45.673 [info] [127.0.0.1][255c9fe8][ManagementConnection] New connection established.
+2024-01-11 20:53:46.485 [info] [127.0.0.1][67cedd5e][ExtensionHostConnection] New connection established.
+2024-01-11 20:53:46.493 [info] [127.0.0.1][67cedd5e][ExtensionHostConnection] <2753> Launched Extension Host Process.
+2024-01-11 20:54:35.940 [info] [127.0.0.1][67cedd5e][ExtensionHostConnection] <2753> [0mGET /favicon.ico [33m404[0m 3.954 ms - 150[0m
+
+2024-01-11 20:54:49.687 [info] [127.0.0.1][255c9fe8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-11 20:54:49.766 [info] [127.0.0.1][67cedd5e][ExtensionHostConnection] <2753> Extension Host Process exited with code: 0, signal: null.

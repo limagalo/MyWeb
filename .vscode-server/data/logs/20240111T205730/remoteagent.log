@@ -1,0 +1,24 @@
+2024-01-11 20:57:30.122 [info] 
+
+
+
+
+2024-01-11 20:57:30.152 [info] Extension host agent started.
+2024-01-11 20:57:30.266 [info] [127.0.0.1][7d24af2d][ManagementConnection] New connection established.
+2024-01-11 20:57:30.856 [info] [127.0.0.1][f719a042][ExtensionHostConnection] New connection established.
+2024-01-11 20:57:30.946 [info] [127.0.0.1][f719a042][ExtensionHostConnection] <3765> Launched Extension Host Process.
+2024-01-11 21:01:14.852 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///home/limagalo/.vscode-server/extensions/extensions.json
+2024-01-11 21:01:14.908 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2024-01-11 21:01:16.575 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///home/limagalo/.vscode-server/extensions/extensions.json
+2024-01-11 21:01:20.906 [info] Getting Manifest... ritwickdey.liveserver
+2024-01-11 21:01:22.859 [info] Installing extension: ritwickdey.liveserver
+2024-01-11 21:01:23.559 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2024-01-11 21:01:23.577 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2024-01-11 21:01:23.603 [info] Extension installed successfully: ritwickdey.liveserver
+2024-01-11 21:01:53.073 [info] [127.0.0.1][7d24af2d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-11 21:01:53.224 [info] [127.0.0.1][f719a042][ExtensionHostConnection] <3765> Extension Host Process exited with code: 0, signal: null.
+2024-01-11 21:01:55.716 [info] [127.0.0.1][d81a5628][ManagementConnection] New connection established.
+2024-01-11 21:01:56.176 [info] [127.0.0.1][1dc92cfb][ExtensionHostConnection] New connection established.
+2024-01-11 21:01:56.182 [info] [127.0.0.1][1dc92cfb][ExtensionHostConnection] <4271> Launched Extension Host Process.
+2024-01-11 22:06:27.770 [info] [127.0.0.1][d81a5628][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-11 22:06:28.013 [info] [127.0.0.1][1dc92cfb][ExtensionHostConnection] <4271> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,25 @@
+2024-01-10 22:12:11.337 [info] Log level: Info
+2024-01-10 22:12:11.337 [info] Validating found git in: "git"
+2024-01-10 22:12:11.337 [info] Using git "2.34.1" from "git"
+2024-01-10 22:12:11.337 [info] > git rev-parse --show-toplevel [5ms]
+2024-01-10 22:12:11.337 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2024-01-10 22:12:11.337 [info] Open repository: /home/limagalo
+2024-01-10 22:12:11.337 [info] > git config --get commit.template [5ms]
+2024-01-10 22:12:11.344 [info] No remotes found in the git config file.
+2024-01-10 22:12:11.345 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-01-10 22:12:11.367 [info] > git status -z -uall [13ms]
+2024-01-10 22:12:11.575 [info] > git config --get commit.template [4ms]
+2024-01-10 22:12:11.581 [info] No remotes found in the git config file.
+2024-01-10 22:12:11.584 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-01-10 22:12:11.596 [info] > git status -z -uall [6ms]
+2024-01-10 22:12:11.839 [info] > git show --textconv :web1.html [7ms]
+2024-01-10 22:12:11.839 [info] > git ls-files --stage -- /home/limagalo/web1.html [1ms]
+2024-01-10 22:12:12.071 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-10 22:12:57.269 [info] > git config --get commit.template [2ms]
+2024-01-10 22:12:57.270 [info] No remotes found in the git config file.
+2024-01-10 22:12:57.276 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-01-10 22:12:57.289 [info] > git status -z -uall [7ms]
+2024-01-10 22:17:01.395 [info] > git config --get commit.template [2ms]
+2024-01-10 22:17:01.403 [info] No remotes found in the git config file.
+2024-01-10 22:17:01.404 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-01-10 22:17:01.418 [info] > git status -z -uall [9ms]
