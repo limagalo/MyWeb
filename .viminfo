@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1704939868,,"q"
+|2,0,1705109392,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,44 @@
 # Registers:
 
 # File marks:
-'0  118  82  ~/.bashrc
-|4,48,118,82,1704939937,"~/.bashrc"
-'1  118  0  ~/.bashrc
-|4,49,118,0,1704939868,"~/.bashrc"
-'2  1  4  ~/.zshrc
-|4,50,1,4,1698533033,"~/.zshrc"
+'0  37  59  /etc/passwd
+|4,48,37,59,1705109392,"/etc/passwd"
+'1  118  82  ~/.bashrc
+|4,49,118,82,1704939937,"~/.bashrc"
+'2  118  0  ~/.bashrc
+|4,50,118,0,1704939868,"~/.bashrc"
+'3  1  4  ~/.zshrc
+|4,51,1,4,1698533033,"~/.zshrc"
 
 # Jumplist (newest first):
+-'  37  59  /etc/passwd
+|4,39,37,59,1705109392,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1705109285,"/etc/passwd"
 -'  118  82  ~/.bashrc
 |4,39,118,82,1704939937,"~/.bashrc"
+-'  118  82  ~/.bashrc
+|4,39,118,82,1704939937,"~/.bashrc"
+-'  118  0  ~/.bashrc
+|4,39,118,0,1704939868,"~/.bashrc"
 -'  118  0  ~/.bashrc
 |4,39,118,0,1704939868,"~/.bashrc"
 -'  1  53  ~/.bashrc
 |4,39,1,53,1704939851,"~/.bashrc"
 -'  1  53  ~/.bashrc
 |4,39,1,53,1704939851,"~/.bashrc"
+-'  1  53  ~/.bashrc
+|4,39,1,53,1704939851,"~/.bashrc"
+-'  1  53  ~/.bashrc
+|4,39,1,53,1704939851,"~/.bashrc"
+-'  1  4  ~/.zshrc
+|4,39,1,4,1698533033,"~/.zshrc"
+-'  1  4  ~/.zshrc
+|4,39,1,4,1698533033,"~/.zshrc"
+-'  1  4  ~/.zshrc
+|4,39,1,4,1698533033,"~/.zshrc"
+-'  1  4  ~/.zshrc
+|4,39,1,4,1698533033,"~/.zshrc"
 -'  1  4  ~/.zshrc
 |4,39,1,4,1698533033,"~/.zshrc"
 -'  1  4  ~/.zshrc
@@ -51,6 +73,11 @@
 |4,39,1,4,1698533033,"~/.zshrc"
 
 # History of marks within files (newest to oldest):
+
+> /etc/passwd
+	*	1705109391	0
+	"	37	59
+	^	38	0
 
 > ~/.bashrc
 	*	1704939931	0
